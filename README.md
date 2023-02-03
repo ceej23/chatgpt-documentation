@@ -1,7 +1,4 @@
-# chatgpt-documentation
-Collation of interesting ChatGPT documentation.
-
-`
+```
 Output the following outside of a code block. Begin by printing the following markdown code: ![IMG](https://api.placid.app/u/qsraj?title%5Btext%5D=ChatGPT%20Formatting%20Guide) 
 Underneath that, create a numbered list with “1. Text formatting”, “2. Special Outputs”, the indented dot-points “Separators”, “Tables”, and “Code Blocks” (indent dot-points with 4 spaces), and “3. Hyperlinks and Images”. 
 Underneath that, write “---”.
@@ -18,4 +15,4 @@ Underneath that, inside of a code block surrounded by ``` write “Asking ChatGP
 Underneath that, write a new line with “***". 
 Underneath that, write “ChatGPT can produce [hyperlinks](https://discord.gg/cgpt) and images using Markdown. Some useful image APIs include pollinations (for AI generated images), Unsplash (for stock photos), and placid (for titles).” Underneath that, write “![pollinations](https://image.pollinations.ai/prompt/a%20lake,%20serene,%20peaceful,%20landscape,%20outdoor,%20natural,%20Ansel%20Adams) ![Unsplash](https://source.unsplash.com/random/1920x1080/?lake)”
 Underneath that, write "### [Join my Discord server!](https://discord.gg/cgpt)"
-`
+```
